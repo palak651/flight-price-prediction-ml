@@ -118,20 +118,15 @@ flight-price-prediction-ml/
 │
 ├── README.md
 ├── requirements.txt
-├── .gitignore
+|
+|── flight_price_prediction.ipynb
 │
-├── notebooks/
-│   └── flight_price_prediction.ipynb
+├── train.csv
+|── test.csv
 │
-├── data/
-│   └── train.csv
-|   └── test.csv
+├── model_comparison.png
 │
-├── images/
-│   └── model_comparison.png
-│
-└── submission/
-    └── submission.csv
+└── submission.csv
 ```
 
 ---
@@ -205,10 +200,4 @@ Possible future improvements include:
 
 ---
 
-## 👤 Author
 
-**Palak Rawat**
-
-GitHub: `Add your GitHub profile link here`
-
-LinkedIn: `Add your LinkedIn profile link here`
