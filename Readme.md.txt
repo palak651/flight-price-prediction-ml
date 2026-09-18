@@ -124,7 +124,8 @@ flight-price-prediction-ml/
 │   └── flight_price_prediction.ipynb
 │
 ├── data/
-│   └── README.md
+│   └── train.csv
+|   └── test.csv
 │
 ├── images/
 │   └── model_comparison.png
